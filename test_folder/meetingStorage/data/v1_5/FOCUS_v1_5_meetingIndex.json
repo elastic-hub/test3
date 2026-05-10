@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "1.0.0",
+  "releaseVersion": "v1_5",
+  "generatedAt": "2026-05-10T00:00:00Z",
+
+  "meetings": [
+    {
+      "meetingId": "FOCUS_TF-1_20260505",
+      "groupId": "TF-1",
+      "meetingDate": "2026-05-05",
+
+      "detailFile": "data/v1_5/FOCUS_TF-1_20260505/FOCUS_TF-1_20260505_meetingRegister.json",
+
+      "status": {
+        "recordingExists": true,
+        "transcriptExists": true,
+        "transcriptSegmented": true,
+        "minutesCreated": true,
+        "pullRequestCreated": false
+      },
+
+      "topics": [
+        {
+          "topicId": "2338",
+          "title": "Update Git Workflow for IP Review"
+        },
+
+        {
+          "topicId": "2161",
+          "title": "Post Approval Governance"
+        }
+      ],
+
+      "attendees": [
+        "Joaquin Prado",
+        "Shawn Alpay",
+        "Mike Fuller"
+      ]
+    },
+
+    {
+      "meetingId": "FOCUS_Members_20260508",
+      "groupId": "Members",
+      "meetingDate": "2026-05-08",
+
+      "detailFile": "data/v1_5/FOCUS_Members_20260508/FOCUS_Members_20260508_meetingRegister.json",
+
+      "status": {
+        "recordingExists": true,
+        "transcriptExists": true,
+        "transcriptSegmented": true,
+        "minutesCreated": false,
+        "pullRequestCreated": false
+      },
+
+      "topics": [
+        {
+          "topicId": "2308",
+          "title": "Header Case Linter"
+        }
+      ],
+
+      "attendees": [
+        "Joaquin Prado",
+        "David Campbell"
+      ]
+    }
+  ]
+}

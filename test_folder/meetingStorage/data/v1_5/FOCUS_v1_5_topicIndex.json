@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "1.0.0",
+  "releaseVersion": "v1_5",
+
+  "topics": [
+    {
+      "topicId": "2338",
+      "title": "Update Git Workflow for IP Review",
+      "meetingId": "FOCUS_TF-1_20260505",
+      "groupId": "TF-1",
+      "meetingDate": "2026-05-05",
+
+      "detailFile": "data/v1_5/FOCUS_TF-1_20260505/FOCUS_TF-1_20260505_meetingRegister.json"
+    },
+
+    {
+      "topicId": "2161",
+      "title": "Post Approval Governance",
+      "meetingId": "FOCUS_TF-1_20260505",
+      "groupId": "TF-1",
+      "meetingDate": "2026-05-05",
+
+      "detailFile": "data/v1_5/FOCUS_TF-1_20260505/FOCUS_TF-1_20260505_meetingRegister.json"
+    }
+  ]
+}

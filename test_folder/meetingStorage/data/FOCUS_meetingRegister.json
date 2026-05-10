@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "1.0.0",
+  "organization": "FOCUS",
+  "generatedAt": "2026-05-10T00:00:00Z",
+  "defaultReleaseVersion": "v1_5",
+
+  "releases": [
+    {
+      "releaseVersion": "v1_5",
+      "meetingIndex": "data/v1_5/FOCUS_v1_5_meetingIndex.json",
+      "topicIndex": "data/v1_5/FOCUS_v1_5_topicIndex.json",
+      "attendeeIndex": "data/v1_5/FOCUS_v1_5_attendeeIndex.json"
+    },
+
+    {
+      "releaseVersion": "v1_4",
+      "meetingIndex": "data/v1_4/FOCUS_v1_4_meetingIndex.json",
+      "topicIndex": "data/v1_4/FOCUS_v1_4_topicIndex.json",
+      "attendeeIndex": "data/v1_4/FOCUS_v1_4_attendeeIndex.json"
+    }
+  ]
+}

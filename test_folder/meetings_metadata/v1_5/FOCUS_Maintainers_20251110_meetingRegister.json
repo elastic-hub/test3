@@ -1,1 +1,258 @@
-
+    {
+      "id": "FOCUS_Maintainers_10-Nov-25",
+      "groupID": "Maintainers",
+      "startTime": "2025-11-10T21:02:07.765Z",
+      "endTime": "2025-11-10T22:32:01.612Z",
+      "segmented": true,
+      "addedDB": true,
+      "links": {
+        "minutes": "meetings/v1_4/focus_maintainers_20251110_minutes",
+        "recording": "https://drive.google.com/file/d/1CMzseinS2CRTVUEnsF-eQaXVP7P0yVqk/view?usp=drive_link",
+        "segmented_transcript": "data/transcripts/segmented_transcripts/FOCUS_Maintainers_10-Nov-25_Segmented_Transcript.json",
+        "transcript": "data/transcripts/original_transcripts/FOCUS_Maintainers_10-Nov-25_transcript.txt"
+      },
+      "attendees": [
+        {
+          "name": "Joaquin Prado (FOCUS PM)"
+        },
+        {
+          "name": "Irena Jurica (Neos)"
+        },
+        {
+          "name": "Shawn Alpay (FinOps Foundation)"
+        },
+        {
+          "name": "Karl Kraft (Walmart) (Karl Kraft)"
+        },
+        {
+          "name": "Matt Cowsert (FinOps Foundation)"
+        },
+        {
+          "name": "Mike Fuller (FinOps Foundation)"
+        },
+        {
+          "name": "Michael Flanakin (Salesforce)"
+        },
+        {
+          "name": "Andrew \"Q\" Quigley (Northwestern Mutual)"
+        },
+        {
+          "name": "Riley Jenkins (Domo)"
+        }
+      ],
+      "agendaTopics": [
+        {
+          "title": "Review Agenda",
+          "platform": "FOCUS_Spec",
+          "id": "20251110-0",
+          "url": "",
+          "type": "Topic",
+          "releaseVersion": "1.4",
+          "duration": 45,
+          "discussed": true
+        },
+        {
+          "title": "[Process] 1.4 procedural tasks",
+          "platform": "FOCUS_Spec",
+          "id": "1541",
+          "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/1541",
+          "type": "Issue",
+          "releaseVersion": "1.4",
+          "duration": 1554,
+          "discussed": true
+        },
+        {
+          "title": "Normative Requirements for Allowed Values",
+          "platform": "FOCUS_Spec",
+          "id": "20251110-5",
+          "url": "",
+          "type": "Issue",
+          "releaseVersion": "1.4",
+          "duration": 2077,
+          "discussed": true
+        },
+        {
+          "title": "1.4 Release Scope / Themes / Milestones",
+          "platform": "FOCUS_Spec",
+          "id": "1460",
+          "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/1460",
+          "type": "Issue",
+          "releaseVersion": "1.4",
+          "duration": 805,
+          "discussed": true
+        },
+        {
+          "title": "New Feature Requests and Feedback",
+          "platform": "FOCUS_Spec",
+          "id": "20251110-6",
+          "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/{VALUE}",
+          "type": "Issue",
+          "releaseVersion": "1.4",
+          "duration": 910,
+          "discussed": true
+        },
+        {
+          "title": "[FR] Add \"burden of proof\" criteria to change management guidelines",
+          "platform": "FOCUS_Spec",
+          "id": "1498",
+          "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/1498",
+          "type": "Issue",
+          "releaseVersion": "1.4",
+          "duration": 0,
+          "discussed": false
+        },
+        {
+          "title": "[FR] Allow ListCost to be null for charges without public list prices",
+          "platform": "FOCUS_Spec",
+          "id": "1523",
+          "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/1523",
+          "type": "Issue",
+          "releaseVersion": "1.4",
+          "duration": 0,
+          "discussed": false
+        },
+        {
+          "title": "[FR] Use adoption to prioritize the working group's efforts",
+          "platform": "FOCUS_Spec",
+          "id": "1544",
+          "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/1544",
+          "type": "Issue",
+          "releaseVersion": "1.4",
+          "duration": 0,
+          "discussed": false
+        },
+        {
+          "title": "[FR] Integrate Sustainability and Carbon Emissions Tracking into the FOCUS Specification",
+          "platform": "FOCUS_Spec",
+          "id": "1554",
+          "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/1554",
+          "type": "Issue",
+          "releaseVersion": "1.4",
+          "duration": 0,
+          "discussed": false
+        },
+        {
+          "title": "[FR] Update supported features for multiple datasets",
+          "platform": "FOCUS_Spec",
+          "id": "1555",
+          "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/1555",
+          "type": "Issue",
+          "releaseVersion": "1.4",
+          "duration": 0,
+          "discussed": false
+        },
+        {
+          "title": "[FR] Update supported features to not use deprecated columns",
+          "platform": "FOCUS_Spec",
+          "id": "1556",
+          "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/1556",
+          "type": "Issue",
+          "releaseVersion": "1.3",
+          "duration": 0,
+          "discussed": false
+        },
+        {
+          "title": "[FR] Clarify cross-cloud mappings for the pricingCategory attribute",
+          "platform": "FOCUS_Spec",
+          "id": "1573",
+          "url": "https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/issues/1573",
+          "type": "Issue",
+          "releaseVersion": "1.3",
+          "duration": 0,
+          "discussed": false
+        },
+        {
+          "title": "TF-1 Feature Requests",
+          "platform": "FOCUS_Spec",
+          "id": "20251110-1",
+          "url": "https://github.com/orgs/FinOps-Open-Cost-and-Usage-Spec/projects/5/views/31",
+          "type": "Topic",
+          "releaseVersion": "1.4",
+          "duration": 0,
+          "discussed": false
+        },
+        {
+          "title": "TF-2 Feature Requests",
+          "platform": "FOCUS_Spec",
+          "id": "20251110-2",
+          "url": "https://github.com/orgs/FinOps-Open-Cost-and-Usage-Spec/projects/5/views/31",
+          "type": "Topic",
+          "releaseVersion": "1.4",
+          "duration": 0,
+          "discussed": false
+        },
+        {
+          "title": "TF-2 Feature Requests",
+          "platform": "FOCUS_Spec",
+          "id": "20251110-3",
+          "url": "https://github.com/orgs/FinOps-Open-Cost-and-Usage-Spec/projects/5/views/31",
+          "type": "Issue",
+          "releaseVersion": "1.4",
+          "duration": 0,
+          "discussed": false
+        }
+      ],
+      "duration": 5333,
+      "timeline": [
+        {
+          "status": "meeting-start",
+          "time": "2025-11-10T21:02:07.765Z",
+          "id": "FOCUS_Maintainers_10-Nov-25"
+        },
+        {
+          "status": "topic-start",
+          "time": "2025-11-10T21:02:07.765Z",
+          "id": "20251110-0"
+        },
+        {
+          "status": "topic-end",
+          "time": "2025-11-10T21:02:53.193Z",
+          "id": "20251110-0"
+        },
+        {
+          "status": "topic-start",
+          "time": "2025-11-10T21:02:53.193Z",
+          "id": "1541"
+        },
+        {
+          "status": "topic-end",
+          "time": "2025-11-10T21:28:47.958Z",
+          "id": "1541"
+        },
+        {
+          "status": "topic-start",
+          "time": "2025-11-10T21:28:47.958Z",
+          "id": "20251110-5"
+        },
+        {
+          "status": "topic-end",
+          "time": "2025-11-10T22:03:25.809Z",
+          "id": "20251110-5"
+        },
+        {
+          "status": "topic-start",
+          "time": "2025-11-10T22:03:25.809Z",
+          "id": "1460"
+        },
+        {
+          "status": "topic-end",
+          "time": "2025-11-10T22:16:51.298Z",
+          "id": "1460"
+        },
+        {
+          "status": "topic-start",
+          "time": "2025-11-10T22:16:51.298Z",
+          "id": "20251110-6"
+        },
+        {
+          "status": "topic-end",
+          "time": "2025-11-10T22:32:01.612Z",
+          "id": "20251110-6"
+        },
+        {
+          "status": "meeting-end",
+          "time": "2025-11-10T23:54:01.612Z",
+          "id": "2025-11-10T22:32:01.612Z"
+        }
+      ]
+    }
